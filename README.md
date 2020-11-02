@@ -1,5 +1,5 @@
 ### Hola a todos 👋
-[![Header](/banner.jpg "Header")](https://aland3v.com/)
+[![Banner: imagen principal](https://raw.githubusercontent.com/aland3v/aland3v/main/banner.jpg)](https://aland3v.com/)
 
 <!--
 **aland3v/aland3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-	U+1F600
