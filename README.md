@@ -13,7 +13,7 @@ Here are some of my favorite languages:
 About me:
 - :green_book: I'm currently learning Computer Science in Universidad Mayor de San Andres
 - 🔭 I'm currently specialize in Web Applications Development
-- 👯 I’m looking to collaborate on Open Source Web Applications
+- :point_right: I’m looking to collaborate on Open Source Web Applications
 - 🤔 I’m looking for help with Development with React
 - 💬 Ask me about anything development related
 - 📫 How to reach me: @aland3v
