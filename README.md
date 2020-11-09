@@ -1,5 +1,7 @@
 ### Hello Everybody!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-[![Twitter](https://img.shields.io/badge/-@aland3v-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aland3v)](https://twitter.com/aland3v) [![Linkedin Badge](https://img.shields.io/badge/-aland3v-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aland3v/)](https://www.linkedin.com/in/aland3v/) [![Web Portafolio](https://img.shields.io/badge/W-My%20Web-blue?style=flat-square)](http://www.nocountryforgeeks.com/author/gallardo)
+[![Twitter](https://img.shields.io/badge/-@aland3v-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aland3v)](https://twitter.com/aland3v) [![Linkedin Badge](https://img.shields.io/badge/-aland3v-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aland3v/)](https://www.linkedin.com/in/aland3v/) <a href="http://aland3v.com" target="_blank" style="text-decoration: none;">![Web Portafolio](https://img.shields.io/badge/W-My%20Web-blue?style=flat-square)</a>
+
+
 
 I'm Alan Quispe. I'm from Bolivia and I love developing Web Aplications and mobile applications.
 
