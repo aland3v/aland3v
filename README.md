@@ -4,7 +4,8 @@
 
 This is my favorite stack:
 - Frontend -> Bootstrap, Jquery, React, Vanilla Javascript, TypeScript.
-- Backend -> PHP with Laravel and SGBD MySql.
+- Backend -> Node JS.
+- Databases -> MySQL and Postgresql
 
 
 About me:
